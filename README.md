@@ -1,4 +1,4 @@
-# one-sentence
+# Explain a Concept in One Memorable Sentence
 
 **Ask about a concept, get one sentence a stranger could repeat tomorrow.**
 
